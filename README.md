@@ -9,7 +9,7 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
-### 🎮 Skills
+### 🎮 Skills:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,9 +22,18 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=faruuhan&show_icons=true&theme=radical" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" /> 
+### 📈 GitHub Stats:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" height="180rem"/> 
+</div>
+
+### 📱 Let's Connect!
+<p>
+  <img src="https://img.shields.io/badge/farhan@faruuhan.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/farhnn.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/faruuhan.com-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img src="https://img.shields.io/badge/faruuhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
 <!--
 **faruuhan/faruuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
