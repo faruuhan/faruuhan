@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Farhan
+I am web developer especially on PHP CodeIgniter and recently focus on front-end. Currently, I am open to new opportunities.
 
 <!--
 **faruuhan/faruuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
