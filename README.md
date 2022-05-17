@@ -24,7 +24,7 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
 
 ### 📈 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" height="180rem"/> 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" height="180rem"/> 
 </div>
 
 ### 📱 Let's Connect!:
