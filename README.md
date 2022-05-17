@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Farhan
 I am web developer especially on PHP CodeIgniter and recently focus on front-end. Currently, I am open to new opportunities.
 
-### ⚙ Tools:
+### 🛠 Tools:
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -27,7 +27,7 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
 <img src="https://github-readme-stats.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" height="180rem"/> 
 </div>
 
-### 📱 Let's Connect!
+### 📱 Let's Connect!:
 <p>
   <a href="https://www.linkedin.com/in/faruuhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedIn&logoColor=white" />
