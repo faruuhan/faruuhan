@@ -29,10 +29,21 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
 
 ### 📱 Let's Connect!
 <p>
-  <img src="https://img.shields.io/badge/farhan@faruuhan.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/farhnn.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/faruuhan.com-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  <img src="https://img.shields.io/badge/faruuhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/faruuhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:farhan@faruuhan.com">
+    <img src="https://img.shields.io/badge/farhan@faruuhan.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:farhnn.r@gmail.com">
+    <img src="https://img.shields.io/badge/farhnn.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://faruuhan.com">
+    <img src="https://img.shields.io/badge/faruuhan.com-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/faruuhan">
+    <img src="https://img.shields.io/badge/faruuhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 <!--
 **faruuhan/faruuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
