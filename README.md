@@ -28,7 +28,7 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
 
 ---
 
-### 📈 GitHub Stats:
+### ⚙ GitHub Stats:
 <div align="center">
   <a href="https://github.com/faruuhan">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/>
