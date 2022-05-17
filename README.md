@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Farhan
 I am web developer especially on PHP CodeIgniter and recently focus on front-end. Currently, I am open to new opportunities.
 
+---
+
 ### 🛠 Tools:
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
@@ -8,6 +10,8 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
   <img src="https://img.shields.io/badge/-Git-FF3300?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
+
+---
 
 ### 🎮 Skills:
 <p>
@@ -22,10 +26,17 @@ I am web developer especially on PHP CodeIgniter and recently focus on front-end
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
+
 ### 📈 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" height="180rem"/> 
+  <a href="https://github.com/faruuhan">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faruuhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180rem"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faruuhan&layout=compact&theme=radical" height="180rem"/>
+  </a>
 </div>
+
+---
 
 ### 📱 Let's Connect!:
 <p>
