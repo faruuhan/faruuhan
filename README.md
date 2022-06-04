@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Farhan
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farhan
 I am web developer especially on PHP CodeIgniter and recently focus on front-end. Currently, I am open to new opportunities.
 
 ---
